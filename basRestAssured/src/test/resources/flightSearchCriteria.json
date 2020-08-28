@@ -1,0 +1,29 @@
+{
+  "requestId": "123565789956",
+  "currency": "SAR",
+  "directFlights": true,
+  "class": "Y",
+  "connection": "OneWay",
+  "legs": [
+    {
+      "departDateTime": "1596412800000",
+      "destinationCode": "DMM",
+      "originCode": "JED",
+      "originLocationType": "C",
+      "destinationLocationType": "C"
+    },
+    {
+      "departDateTime": "1596844800000",
+      "destinationCode": "JED",
+      "originCode": "DMM",
+      "originLocationType": "C",
+      "destinationLocationType": "C"
+    }
+  ],
+  "pax": {
+    "adult": 1,
+    "child": 0,
+    "lapinfant": 0,
+    "infantonchair": 0
+  }
+}

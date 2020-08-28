@@ -1,0 +1,16 @@
+Sequence
+1. Send a flight search request.
+2. Select a ranom flight record from the response. 
+3. Make sure that the selected flight is still available/valid.
+4. If it is valid, then request the details of this flight.
+5. If it is not valid i.e. no longer available, then select a different flight.
+6. Keep selecting another random flight from the list for as many time as the 
+number of the flights in the search response.
+7. If all the flights tried are not available/valid, then start over i.e. 
+send a search request again and start over the cycle.
+
+
+In this script:
+* How to deal with arrays and lists
+* How to pass json file as a payload to a post request
+*
